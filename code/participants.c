@@ -21,10 +21,8 @@ main (int argc, char *argv[])
   printf ("%02d: Joseph A. Abandoh-Sam\n", ++i);
   printf ("%02d: Samuel Nyarkoh\n", ++i);
 
-<<<<<<< HEAD
-=======
   printf ("%02d: Eve Lyons-Berg\n", ++i);
->>>>>>> 68cd325ce50739c605ead5486c1818bb8bb1554d
+  printf ("%02d: Olumide Okebunmi Oladimeji\n", ++i);
   printf ("There are %i participants.\n", i);
   return 0;
 } // main
